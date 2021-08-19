@@ -395,6 +395,7 @@ Screen.metadata = {
       content: {
         type: 'object',
         content: {
+          type: {},
           text: {},
           fill: {},
           stroke: {},
